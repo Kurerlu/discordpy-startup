@@ -5,7 +5,7 @@ import discord
 
 client = discord()
 
-TOKEN ='MTAwNzgxMzU5MTU5MzkyMjY3MQ.Gi1jJC.zixnUH1ibQ0OVo4KdhWZuw_RjEifL95mtJXN_8'
+TOKEN ='MTAwNzgxMzU5MTU5MzkyMjY3MQ.G9Bbqt.Rz-BABoxjbB4cNC1gv-TvVASleIxyGdtHEHR28'
 
 client = discord.Client()
 @client.event
